@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript 
 - 📫 You can contact me here: erfonspanos@gmail.com
 - ⚡ Fun fact: I'm a communicative guy who loves playing sports, going to the gym, playing video games, learning new things and constantly improving myself as a person and as a professional!
+- Javascript | Java | HTML | CSS | PowerBI
 
 <!---
 erfonspanos/erfonspanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
