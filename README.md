@@ -1,14 +1,13 @@
-- 👋 Hi there, I’m Erfon Spanos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript 
-- 📫 You can contact me here: erfonspanos@gmail.com
-- ⚡ Fun fact: I'm a communicative guy who loves playing sports, going to the gym, playing video games, learning new things and constantly improving myself as a person and as a professional!
+<h1 align="left"> Hi there, I’m Erfon Spanos! </h1>
+<h3 align="left">- ✍️ I’m currently learning JavaScript <img src="https://img.icons8.com/?size=50&id=Nkym0Ujb8VGI&format=png&color=000000"/> </h3> 
+<h3>- 📫 You can contact me here: erfonspanos@gmail.com</h3>
+<p>- ⚡ About me: I'm a communicative guy who loves playing sports, going to the gym, playing video games, learning new things and constantly improving myself as a person and as a professional!</p>
 
-<h2 align="left">I code with</h2>
-
+<h2 align="center">I code with</h2>
 
 
-<div align="left">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
